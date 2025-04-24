@@ -15,8 +15,6 @@ python MyMenu.py
 ## Project Demo
 https://github.com/user-attachments/assets/48600a7e-37db-4e2c-a3fa-67db2de64f23
 
-## Project Gallery
-
 ## Relavant Links
 * https://github.com/davidmegginson/ourairports-data
 * https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
